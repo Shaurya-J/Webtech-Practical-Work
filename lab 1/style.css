@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+.one
+{
+    padding: 5px;
+    background-color:red;
+}
+.two
+{
+    padding: 5px;
+    background-color:gainsboro;
+}
+h1
+{
+    margin: 0;
+}
+nav
+{ 
+    background-color:black;
+    color:white;
+}
+.para
+{ 
+    padding-left: 50px;
+    padding-right: 50px;
+}

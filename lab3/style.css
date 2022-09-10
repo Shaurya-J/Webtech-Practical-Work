@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
+*
+{
+    margin: 0;
+    padding-left: 0;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-weight:700;
+}
+.pr1{
+    padding: 250px;
+    padding-right: 100px;
+}
+.pr2{
+    padding: 100px;
+    display:flex;
+    justify-content:space-between;
+}
+.nv{
+    font-weight:700;
+}
+.pr3 > img{
+    transform:rotate(20deg);
+}
+.p1 > p{
+    padding-top:10px;
+    padding-:300px ;
+    font-weight:700;
+    font-size: 40px;
+}
+.p1 > a{
+    font-weight:700;
+    font-size: 30px;
+}
+.nav
+{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: peachpuff;
+}
+.o1{
+    align-items: center;
+}
+.o1 > a{
+    font-weight: 700;
+    padding-left:0;
+}
+.top{
+    padding-top:100px;
+}
+.bh{
+    display:flex;
+    justify-content: space-between;
+    background-color: peachpuff;
+    flex-direction: row;
+}
+
+.top > a{
+    font-size: 30px;
+    padding-left:300px;
+}
+.main{
+    font-size:60px;
+    padding-left:300px;
+    padding-right:900px;
+
+}
+.o1 >img{
+    height:40px;
+    padding: 10px;
+    border-radius:50%;
+}
+.nv > a {
+    padding: 0 2rem;
+}
+.nv{
+    display: flex;
+    padding: 10px;
+}
+.new
+{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-bottom: 200px;
+}
+.n1{
+    height: 500px;
+    width: 300px;
+}
+.n2{
+    height: 400px;
+    width: 300px;
+}
+.n3{
+    height: 400px;
+    width: 300px;
+}
+.n4{
+    height: 400px;
+    width: 300px;
+}
+.n1 > img{
+    height: 500px;
+    width: 400px;
+}
+.n2 > p{
+    word-wrap: normal;
+}
+.n2 > img{
+    height: 500px;
+    width: 400px;
+}
+.n3 > img{
+    height: 400px;
+    width: 300px;
+}
+.n4 > img{
+    height: 500px;
+    width: 400px;
+}
+.review{
+    display: flex;
+    justify-content: space-between;
+    padding-top:60px;
+}
+.p1 > img{
+    height: 500px;
+    width: 400px;
+}
+.p2 > img{
+    height: 500px;
+    width: 400px;
+}
+.p3 > img{
+    height: 500px;
+    width: 400px;
+}
+.p4 > img{
+    height: 500px;
+    width: 400px;
+}
